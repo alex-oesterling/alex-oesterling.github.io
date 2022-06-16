@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Oesterling"
-  avatar           : "profile.JPG"
+  avatar           : #"profile.JPG"
   bio              : "PhD Candidate at Harvard University. Interested in Algorithmic Fairness and Trustworthy AI."
   location         : "Location"
   employer         :
