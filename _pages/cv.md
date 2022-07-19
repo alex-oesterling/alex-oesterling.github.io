@@ -36,17 +36,15 @@ redirect_from:
   - Design and measure experimental configurations to simulate human behavior using an advanced metamaterial antenna.
   - Published paper as first author in the IEEE Access journal.
 
-- Fall 2019-Spring 2022: Teaching Assistant
+- Teaching Assistant, _Duke University First Year Design (EGR 101)_ Fall 2019 - Spring 2022
 
-  - Duke University First Year Design (EGR 101)
   - Lead small project teams of freshman engineers to teach students the fundamentals of design, problem solving, collaboration, and project management as they create real world solutions for local clients.
-    – Provide technical knowledge, manage conflicts, and mentor students throughout the project cycle.
-    – Taught three years of freshmen, directly working with 20 students total and managing two classes of 50 each.
-    – Interviewed TA candidates and provided hiring feedback to professors.
-    – Create projects with real world impact, such as: a fever-simulating mannequin for nurses, a mirror to socialize NICU babies, and a decibel detector for workshop ear safety.
+    - Provide technical knowledge, manage conflicts, and mentor students throughout the project cycle.
+    - Taught three years of freshmen, directly working with 20 students total and managing two classes of 50 each.
+    - Interviewed TA candidates and provided hiring feedback to professors.
+    - Create projects with real world impact, such as: a fever-simulating mannequin for nurses, a mirror to socialize NICU babies, and a decibel detector for workshop ear safety.
 
-- Summer 2021: Software Development Engineer Intern
-  - Amazon Alexa
+- Software Development Engineer Intern, _Amazon Alexa_, Summer 2021
   - Improved ambient Alexa experience by introducing new use case for customers owning a single device with a screen.
   - Facilitated users to send visual commands to one device without a screen and have the response come from another device with a screen.
   - Wrote software to impact over 14 million customers worldwide.
