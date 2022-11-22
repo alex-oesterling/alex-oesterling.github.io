@@ -86,7 +86,7 @@ redirect_from:
   - IEEE honor society for electrical engineers with high academic standing and leadership potential.
 - Pratt Fellow, _Pratt School of Engineering_, May 2020
   - Admitted to a research fellowship culminating in graduation with distinction.
-  - Conduct research in Smith lab designing experiment to use machine learning to detect human motion via a metamaterial antenna.
+  - Conducted research in Smith lab designing experiment to use machine learning to detect human motion via a metamaterial antenna.
 - Huang Fellow, _Duke Science and Society_, March 2019
   - Awarded a competitive fellowship focused on science and its intersection with policy, ethics, and society.
   - Commenced research with Dr. David R. Smith, attended lectures by luminaries in medicine, science, policy, and journalism, polished presentation and public speaking skills through debates and a poster session.
