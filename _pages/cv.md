@@ -70,7 +70,7 @@ redirect_from:
 # Service
 
 - Communication Assisting Device, _Independent Project_, January 2019 – March 2022
-  - Improved a communication device for a Emma, a local teenager with a movement disability, to be able to engage with classmates in school.
+  - Improved a communication device for Emma, a teenager with a movement disability, to be able to engage with classmates in school.
   - Met with faculty panels for safety reviews, assembled risk assessments and failure analyses, and designed and fabricated electronics (PCBs, Arduino programming) to control device.
   - Worked for three years through the pandemic to perfect our design and ensure the safety of the device.
   - Completed and delivered the project successfully in March of 2022.
