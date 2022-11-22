@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-- B.S.E. Electrical and Computer Engineering, B.S. Computer Science, Duke University, 2022
+- B.S.E. Electrical and Computer Engineering, B.S. Computer Science, Summa Cum Laude, Duke University, 2022
 - Ph.D in Computer Science, Harvard University, 2027 (expected)
 
 # Work experience
@@ -77,12 +77,15 @@ redirect_from:
 
 # Honors and Awards
 
+- [George Sherrerd III Memorial Award](https://ece.duke.edu/undergrad/students/awards-honors), May 2022
+  - Awarded each year to the senior who, in the opinion of ECE faculty, attained the highest level of scholastic achievement in all subjects and simultaneously rendered significant service to the Pratt School of Engineering and Duke University.
+  - Nominated and selected by ECE faculty and awarded $1000 for further studies.
 - Tau Beta Pi, _Member_, March 2021
   - National engineering honor society member with high academic standing and exemplary character.
 - IEEE Eta Kappa Nu, _Member_, March 2021
   - IEEE honor society for electrical engineers with high academic standing and leadership potential.
 - Pratt Fellow, _Pratt School of Engineering_, May 2020
-  - Admitted to a research fellowship culminating in a senior thesis and graduation with distinction.
+  - Admitted to a research fellowship culminating in graduation with distinction.
   - Conduct research in Smith lab designing experiment to use machine learning to detect human motion via a metamaterial antenna.
 - Huang Fellow, _Duke Science and Society_, March 2019
   - Awarded a competitive fellowship focused on science and its intersection with policy, ethics, and society.
