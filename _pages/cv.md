@@ -79,7 +79,6 @@ redirect_from:
 
 - [George Sherrerd III Memorial Award](https://ece.duke.edu/undergrad/students/awards-honors), May 2022
   - Awarded each year to the senior who, in the opinion of ECE faculty, attained the highest level of scholastic achievement in all subjects and simultaneously rendered significant service to the Pratt School of Engineering and Duke University.
-  - Nominated and selected by ECE faculty and awarded $1000 for further studies.
 - Tau Beta Pi, _Member_, March 2021
   - National engineering honor society member with high academic standing and exemplary character.
 - IEEE Eta Kappa Nu, _Member_, March 2021
