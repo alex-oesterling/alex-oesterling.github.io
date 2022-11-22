@@ -31,9 +31,9 @@ redirect_from:
 
 - Research Fellow, _David R. Smith, Duke University_, May 2019 – August 2021
 
-  - Designed and run experiments investigating radio frequency imaging for human presence detection. Funded by the Department of Energy ARPA-E program to reduce residential power consumption by 30%.
+  - Designed and ran experiments investigating radio frequency imaging for human presence detection. Funded by the Department of Energy ARPA-E program to reduce residential power consumption by 30%.
   - Investigated machine learning approaches to data analysis to classify human behaviors such as breathing, walking, and sitting.
-  - Designed and measure experimental configurations to simulate human behavior using an advanced metamaterial antenna.
+  - Designed and measured experimental configurations to simulate human behavior using an advanced metamaterial antenna.
   - Published paper as first author in the IEEE Access journal.
 
 - Teaching Assistant, _Duke University First Year Design (EGR 101)_ Fall 2019 - Spring 2022
