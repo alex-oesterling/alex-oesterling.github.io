@@ -18,8 +18,8 @@ redirect_from:
 
 - Research Assistant, _Guillermo Sapiro, Duke University_, January 2021 – May 2022
 
-  - Explore backwards compatibility in machine learning models with the goal of maintaining case-by-case performance between model generations.
-  - Investigate simulated generations of machine learning models to understand why updated models decrease performance on certain data points.
+  - Explored backwards compatibility in machine learning models with the goal of maintaining case-by-case performance between model generations.
+  - Investigated simulated generations of machine learning models to understand why updated models decrease performance on certain data points.
 
 - Research Assistant, _Cynthia Rudin, Duke University_, January 2021 - February 2022
 
@@ -31,18 +31,18 @@ redirect_from:
 
 - Research Fellow, _David R. Smith, Duke University_, May 2019 – August 2021
 
-  - Design and run experiments investigating radio frequency imaging for human presence detection. Funded by the Department of Energy ARPA-E program to reduce residential power consumption by 30%.
-  - Investigate machine learning approaches to data analysis to classify human behaviors such as breathing, walking, and sitting.
-  - Design and measure experimental configurations to simulate human behavior using an advanced metamaterial antenna.
+  - Designed and run experiments investigating radio frequency imaging for human presence detection. Funded by the Department of Energy ARPA-E program to reduce residential power consumption by 30%.
+  - Investigated machine learning approaches to data analysis to classify human behaviors such as breathing, walking, and sitting.
+  - Designed and measure experimental configurations to simulate human behavior using an advanced metamaterial antenna.
   - Published paper as first author in the IEEE Access journal.
 
 - Teaching Assistant, _Duke University First Year Design (EGR 101)_ Fall 2019 - Spring 2022
 
-  - Lead small project teams of freshman engineers to teach students the fundamentals of design, problem solving, collaboration, and project management as they create real world solutions for local clients.
-    - Provide technical knowledge, manage conflicts, and mentor students throughout the project cycle.
+  - Led small project teams of freshman engineers to teach students the fundamentals of design, problem solving, collaboration, and project management as they create real world solutions for local clients.
+    - Provided technical knowledge, manage conflicts, and mentor students throughout the project cycle.
     - Taught three years of freshmen, directly working with 20 students total and managing two classes of 50 each.
     - Interviewed TA candidates and provided hiring feedback to professors.
-    - Create projects with real world impact, such as: a fever-simulating mannequin for nurses, a mirror to socialize NICU babies, and a decibel detector for workshop ear safety.
+    - Created projects with real world impact, such as: a fever-simulating mannequin for nurses, a mirror to socialize NICU babies, and a decibel detector for workshop ear safety.
 
 - Software Development Engineer Intern, _Amazon Alexa_, Summer 2021
   - Improved ambient Alexa experience by introducing new use case for customers owning a single device with a screen.
