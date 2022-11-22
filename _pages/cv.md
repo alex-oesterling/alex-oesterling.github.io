@@ -11,8 +11,8 @@ redirect_from:
 
 # Education
 
-- B.S.E. Electrical and Computer Engineering, B.S. Computer Science, Summa Cum Laude, Duke University, 2022
-- Ph.D in Computer Science, Harvard University, 2027 (expected)
+- BSE Electrical and Computer Engineering, BS Computer Science, _summa cum laude_, Duke University, 2022
+- PhD in Computer Science, Harvard University, 2027 (expected)
 
 # Work experience
 
