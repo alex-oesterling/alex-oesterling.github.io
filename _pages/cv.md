@@ -39,7 +39,7 @@ redirect_from:
 - Teaching Assistant, _Duke University First Year Design (EGR 101)_ Fall 2019 - Spring 2022
 
   - Led small project teams of freshman engineers to teach students the fundamentals of design, problem solving, collaboration, and project management as they create real world solutions for local clients.
-    - Provided technical knowledge, manage conflicts, and mentor students throughout the project cycle.
+    - Provided technical knowledge, managed conflicts, and mentored students throughout the project cycle.
     - Taught three years of freshmen, directly working with 20 students total and managing two classes of 50 each.
     - Interviewed TA candidates and provided hiring feedback to professors.
     - Created projects with real world impact, such as: a fever-simulating mannequin for nurses, a mirror to socialize NICU babies, and a decibel detector for workshop ear safety.
