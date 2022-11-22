@@ -73,7 +73,7 @@ redirect_from:
   - Improved a communication device for Emma, a teenager with a movement disability, to be able to engage with classmates in school.
   - Met with faculty panels for safety reviews, assembled risk assessments and failure analyses, and designed and fabricated electronics (PCBs, Arduino programming) to control device.
   - Worked for three years through the pandemic to perfect our design and ensure the safety of the device.
-  - Completed and delivered the project successfully in March of 2022.
+  - Completed and delivered the project successfully in March 2022.
 
 # Honors and Awards
 
