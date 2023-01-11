@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Harvard under the mentorship of [Dr. Flavio du Pin Calmon](https://people.seas.harvard.edu/~flavio/) and [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/) and am supported by the [NSF Graduate Student Fellowship](https://www.nsfgrfp.org/). 
 
-I am broadly interested in **fair, interpretable, and trustworthy machine learning**, and my current projects apply information theoretic tools and perspectives to problems in fairness and representation learning. Although I love digging into theory, I am an engineer by training and hope to use my research to design actionable solutions for society. You can reach me at any of the links on the left, or email me at aoesterling\[at\]g\[dot\]harvard\[dot\]edu.
+I am broadly interested in **fair, interpretable, and trustworthy machine learning**, and my current projects apply information theoretic tools and perspectives to problems in fairness and representation learning. Although I love digging into theory, I am an engineer by training and hope to use my research to design actionable solutions for society. You can reach me at any of the links on the left, or email me at aoesterling \[at\] g \[dot\] harvard \[dot\] edu.
 
 Outside of the lab, you can find me playing jazz guitar, volleyball (I'm a middle blocker!), or dancing with Harvard's Asian American Dance Troupe.
 
