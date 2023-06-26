@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=IBM+Plex+Mono&family=Inconsolata&display=swap');
+
+/* html {
+    border-top:solid 8px #e87f0e
+} */
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 14px;
+    color: #1a1a1a;
+    line-height: 1.6em;
+    margin: 0
+}
+
+
+
+
+h2 {
+    font-size:1.6em;
+    margin-top:1.75em;
+    margin-bottom:.875em
+}
+
+
+
+.content {
+    height: 100%;
+    margin-left: 25%;
+    max-width:50em;
+}
+
+
+
+
+.container {
+    display: flex;
+    position: relative; 
+
+}
+
+#orange-bar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:8px;
+    background-color:#e87f0e;
+ }
+
+#headshot {
+    max-height:35%;
+
+}
+
+
+#socials {
+    margin-top: 2em;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+
+
+.sidebar {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    line-height:1em;
+    position: fixed;
+    width: 25%; 
+    height: 100%;
+    margin-top: 3px;
+}
+
+
+
+
+a:hover {
+    text-decoration:underline
+}
+
+a {
+    color:#e87f0e;
+    text-decoration:none
+}
+
+bold {
+    color:#e87f0e
+}
+
+#name {
+    font-family: 'Caprasimo', cursive;
+    font-size: 48px;
+    line-height: 48px;
+    margin-left: 15%;
+    margin-right: 5%;
+ }
+
+
+@media only screen and (max-width: 1024px){
+    body {
+        /* font-family: 'Karla', sans-serif; */
+        font-family: 'IBM Plex Mono', monospace;
+        font-size:28px
+    }
+
+
+    h2 {
+        font-size:1.6em
+    }
+    .container {
+        width:924px;
+        margin:0 auto;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sidebar {
+        text-align:center;
+        width:inherit;
+        background-color:
+        white;
+        color:black;
+        flex-direction: row;
+        justify-content: center;
+        /* align-items: center; */
+        height: inherit;
+        margin-top: 8px;
+        padding-bottom: 8px;
+    }
+    #name {
+        font-size: 36px;
+    }
+
+    #headshot { 
+        max-width: 25%;
+    }
+    .content {
+        padding-top:35%;
+        width:75%;
+        float:center;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    #socials {
+        margin-left: 5%;
+        font-size: 18px;
+    }
+
+} 
