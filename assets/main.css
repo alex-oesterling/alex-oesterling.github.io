@@ -105,12 +105,12 @@ bold {
     body {
         /* font-family: 'Karla', sans-serif; */
         font-family: 'IBM Plex Mono', monospace;
-        font-size:18px
+        font-size:12px
     }
 
 
     h2 {
-        font-size:1.6em
+        font-size:1.2em
     }
     .container {
         flex-direction: column;
