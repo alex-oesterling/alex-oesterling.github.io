@@ -100,7 +100,7 @@ bold {
 
 
 
-@media only screen and (max-width: 980px){
+@media only screen and (max-width: 800px){
     body {
         /* font-family: 'Karla', sans-serif; */
         font-family: 'IBM Plex Mono', monospace;
