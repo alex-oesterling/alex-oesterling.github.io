@@ -26,7 +26,8 @@ h2 {
 .content {
     height: 100%;
     margin-left: 25%;
-    max-width:50em;
+    /* max-width:50em; */
+    margin-right: 20%;
 }
 
 
@@ -101,7 +102,7 @@ bold {
 
 
 
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width: 980px){
     body {
         /* font-family: 'Karla', sans-serif; */
         font-family: 'IBM Plex Mono', monospace;
