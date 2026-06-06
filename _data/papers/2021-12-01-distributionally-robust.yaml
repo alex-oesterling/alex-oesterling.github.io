@@ -1,0 +1,9 @@
+title: "Distributionally Robust Group Backwards Compatibility"
+url: "https://arxiv.org/abs/2112.10290"
+authors:
+  - name: "Martin Bertran"
+  - name: "Natalia Martinez"
+  - name: "A. Oesterling"
+    highlight: true
+  - name: "Guillermo Sapiro"
+venue: "DistShift Workshop, NeurIPS 2021"
