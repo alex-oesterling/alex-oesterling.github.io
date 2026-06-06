@@ -1,0 +1,182 @@
+- title: "Understanding Annotator Safety Policy with Interpretability"
+  url: "https://arxiv.org/abs/2605.05329"
+  authors:
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Donghao Ren"
+    - name: "Yannick Assogba"
+    - name: "Dominik Moritz"
+    - name: "Sunnie S.Y. Kim"
+    - name: "Leon Gatys"
+    - name: "Fred Hohman"
+  venue: "FAccT 2026"
+
+- title: "Temporal Sparse Autoencoders: Leveraging the Sequential Nature of Language for Interpretability"
+  url: "https://arxiv.org/abs/2511.05541"
+  authors:
+    - name: "A. Oesterling*"
+      highlight: true
+    - name: "Usha Bhalla*"
+    - name: "Claudio Mayrink Verdun"
+    - name: "Flavio Du Pin Calmon"
+    - name: "Hima Lakkaraju"
+  venue: "ICLR 2026"
+  award: "Oral"
+  prev: "Oral @ Workshop on Assessing World Models, ICML 2025"
+
+- title: "Inference-Time Reward Hacking in Large Language Models"
+  url: "https://arxiv.org/pdf/2506.19248"
+  authors:
+    - name: "Hadi Khalaf"
+    - name: "Claudio Mayrink Verdun"
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Hima Lakkaraju"
+    - name: "Flavio Du Pin Calmon"
+  award: "Spotlight"
+  prev: "Workshop on Models of Human Feedback for AI Alignment, ICML 2025"
+
+- title: "Soft Best-of-n Sampling for Model Alignment"
+  url: "https://arxiv.org/pdf/2505.03156"
+  authors:
+    - name: "A. Oesterling*"
+      highlight: true
+    - name: "Claudio Mayrink Verdun*"
+    - name: "Hima Lakkaraju"
+    - name: "Flavio Du Pin Calmon"
+  venue: "ISIT 2025"
+
+- title: "Multi-group Proportional Representations in Text-to-Image Models"
+  url: "https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_Multi-Group_Proportional_Representations_for_Text-to-Image_Models_CVPR_2025_paper.pdf"
+  authors:
+    - name: "Sangwon Jung"
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Claudio Mayrink Verdun"
+    - name: "Sajani Vithana"
+    - name: "Flavio Du Pin Calmon"
+  venue: "CVPR 2025"
+  prev: "AFME Workshop, NeurIPS 2024"
+
+- title: "Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE 🪢)"
+  url: "https://arxiv.org/abs/2402.10376"
+  authors:
+    - name: "A. Oesterling*"
+      highlight: true
+    - name: "Usha Bhalla*"
+    - name: "Suraj Srinivas"
+    - name: "Flavio Du Pin Calmon"
+    - name: "Hima Lakkaraju"
+  venue: "NeurIPS 2024"
+
+- title: "Multi-Group Proportional Representation in Retrieval"
+  url: "https://arxiv.org/abs/2407.08571"
+  authors:
+    - name: "A. Oesterling*"
+      highlight: true
+    - name: "Claudio Mayrink Verdun*"
+    - name: "Carol Xuan Long"
+    - name: "Alexander Glynn"
+    - name: "Lucas Monteiro Paes"
+    - name: "Sajani Vithana"
+    - name: "Martina Cardone"
+    - name: "Flavio Du Pin Calmon"
+  venue: "NeurIPS 2024"
+
+- title: "Operationalizing the Blueprint for an AI Bill of Rights: Recommendations for Practitioners, Researchers, and Policy Makers"
+  url: "https://arxiv.org/abs/2407.08689"
+  authors:
+    - name: "A. Oesterling*"
+      highlight: true
+    - name: "Usha Bhalla*"
+    - name: "Suresh Venkatasubramanian"
+    - name: "Hima Lakkaraju"
+  venue: "Under Review."
+
+- title: "All Roads Lead to Rome? Exploring Representational Similarities Between Latent Spaces of Generative Image Models"
+  url: "https://arxiv.org/abs/2407.13449"
+  authors:
+    - name: "Charumathi Badrinath"
+    - name: "Usha Bhalla"
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Suraj Srinivas"
+    - name: "Hima Lakkaraju"
+  venue: "HiLD, GRaM, SPIGM Workshops, ICML 2024"
+
+- title: "Fair Machine Unlearning: Mitigating Disparities during Data Deletion"
+  url: "https://arxiv.org/abs/2307.14754"
+  authors:
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Jiaqi Ma"
+    - name: "Flavio Du Pin Calmon"
+    - name: "Hima Lakkaraju"
+  venue: "AISTATS 2024"
+  prev: "at Data Centric Machine Learning Workshop, ICML 2023"
+
+- title: "Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation"
+  url: "https://academic.oup.com/gpb/article/22/1/qzae003/7515255"
+  authors:
+    - name: "Ashokkumar Manickam"
+    - name: "Jackson J Peterson"
+    - name: "Yuriko Harigaya"
+    - name: "David M Murdoch"
+    - name: "David M Margolis"
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Zhicheng Guo"
+    - name: "Cynthia D Rudin"
+    - name: "Yuchao Jiang"
+    - name: "Edward P Browne"
+  venue: "Genomics, Proteomics, & Bioinformatics, 2024"
+
+- title: "Integrated single-cell multiomic profiling of HIV latency reversal"
+  url: "https://www.sciencedirect.com/science/article/pii/S2055664022000759?via%3Dihub"
+  authors:
+    - name: "Ashokkumar Manickam"
+    - name: "Jackson J Peterson"
+    - name: "Wei Mei"
+    - name: "David M Murdoch"
+    - name: "David M Margolis"
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Zhicheng Guo"
+    - name: "Cynthia D Rudin"
+    - name: "Yuchao Jiang"
+    - name: "Edward P Browne"
+  venue: "Journal of Virus Eradication, 2022"
+
+- title: "Distributionally Robust Group Backwards Compatibility"
+  url: "https://arxiv.org/abs/2112.10290"
+  authors:
+    - name: "Martin Bertran"
+    - name: "Natalia Martinez"
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Guillermo Sapiro"
+  venue: "DistShift Workshop, NeurIPS 2021"
+
+- title: "Multitask Learning for Citation Purpose Classification"
+  url: "https://arxiv.org/pdf/2106.13275.pdf"
+  authors:
+    - name: "A. Oesterling*"
+      highlight: true
+    - name: "Angikar Ghosal*"
+    - name: "Haoyang Yu*"
+    - name: "Rui Xin*"
+    - name: "Yasa Baig*"
+    - name: "Lesia Semenova"
+    - name: "Cynthia Rudin"
+  venue: "2nd Workshop on Scholarly Document Processing, NAACL 2021"
+
+- title: "Detecting Motion in a Room Using a Dynamic Metasurface Antenna"
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9285239"
+  authors:
+    - name: "A. Oesterling"
+      highlight: true
+    - name: "Mohammadreza F Imani"
+    - name: "Oren S Mizrahi"
+    - name: "Jonah N Gollub"
+    - name: "David R Smith"
+  venue: "IEEE Access, 2020"

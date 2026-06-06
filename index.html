@@ -70,9 +70,7 @@
                     </div>
                 </div>
                 <h2 id="research">Publications ✍️</h2>
-                {% assign sorted_papers = site.data.papers | sort | reverse %}
-                {% for paper_pair in sorted_papers %}
-                {% assign paper = paper_pair[1] %}
+                {% for paper in site.data.papers %}
                 <p>
                   <strong><a {% if paper.url %}href="{{ paper.url }}"{% endif %}>{{ paper.title }}</a></strong> <br />
                   {% for author in paper.authors %}{% if author.highlight %}<bold>{{ author.name }}</bold>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %} <br />
