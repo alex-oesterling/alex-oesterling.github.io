@@ -1,0 +1,16 @@
+---
+title: "Multi-Group Proportional Representation in Retrieval"
+url: "https://arxiv.org/abs/2407.08571"
+date: 2024-12-09
+authors:
+  - name: "A. Oesterling*"
+    highlight: true
+  - name: "Claudio Mayrink Verdun*"
+  - name: "Carol Xuan Long"
+  - name: "Alexander Glynn"
+  - name: "Lucas Monteiro Paes"
+  - name: "Sajani Vithana"
+  - name: "Martina Cardone"
+  - name: "Flavio Du Pin Calmon"
+venue: "NeurIPS 2024"
+---
