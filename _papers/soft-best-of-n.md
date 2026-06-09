@@ -1,6 +1,6 @@
 ---
 title: "Soft Best-of-n Sampling for Model Alignment"
-url: "https://arxiv.org/pdf/2505.03156"
+link: "https://arxiv.org/pdf/2505.03156"
 date: 2025-06-22
 authors:
   - name: "A. Oesterling*"

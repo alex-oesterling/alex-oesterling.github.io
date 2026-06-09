@@ -1,6 +1,6 @@
 ---
 title: "Operationalizing the Blueprint for an AI Bill of Rights: Recommendations for Practitioners, Researchers, and Policy Makers"
-url: "https://arxiv.org/abs/2407.08689"
+link: "https://arxiv.org/abs/2407.08689"
 date: 2024-07-02
 authors:
   - name: "A. Oesterling*"

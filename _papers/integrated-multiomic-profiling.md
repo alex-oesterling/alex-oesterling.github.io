@@ -1,6 +1,6 @@
 ---
 title: "Integrated single-cell multiomic profiling of HIV latency reversal"
-url: "https://www.sciencedirect.com/science/article/pii/S2055664022000759?via%3Dihub"
+link: "https://www.sciencedirect.com/science/article/pii/S2055664022000759?via%3Dihub"
 date: 2022-01-01
 authors:
   - name: "Ashokkumar Manickam"

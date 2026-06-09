@@ -1,6 +1,6 @@
 ---
 title: "Multi-Group Proportional Representation in Retrieval"
-url: "https://arxiv.org/abs/2407.08571"
+link: "https://arxiv.org/abs/2407.08571"
 date: 2024-12-09
 authors:
   - name: "A. Oesterling*"

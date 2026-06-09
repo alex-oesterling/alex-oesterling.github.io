@@ -1,6 +1,6 @@
 ---
 title: "Multi-group Proportional Representations in Text-to-Image Models"
-url: "https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_Multi-Group_Proportional_Representations_for_Text-to-Image_Models_CVPR_2025_paper.pdf"
+link: "https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_Multi-Group_Proportional_Representations_for_Text-to-Image_Models_CVPR_2025_paper.pdf"
 date: 2025-06-11
 authors:
   - name: "Sangwon Jung"

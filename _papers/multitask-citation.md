@@ -1,6 +1,6 @@
 ---
 title: "Multitask Learning for Citation Purpose Classification"
-url: "https://arxiv.org/pdf/2106.13275.pdf"
+link: "https://arxiv.org/pdf/2106.13275.pdf"
 date: 2021-06-01
 authors:
   - name: "A. Oesterling*"

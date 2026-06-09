@@ -1,6 +1,6 @@
 ---
 title: "Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation"
-url: "https://academic.oup.com/gpb/article/22/1/qzae003/7515255"
+link: "https://academic.oup.com/gpb/article/22/1/qzae003/7515255"
 date: 2024-01-01
 authors:
   - name: "Ashokkumar Manickam"

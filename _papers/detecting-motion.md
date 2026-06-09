@@ -1,6 +1,6 @@
 ---
 title: "Detecting Motion in a Room Using a Dynamic Metasurface Antenna"
-url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9285239"
+link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9285239"
 date: 2020-11-01
 authors:
   - name: "A. Oesterling"

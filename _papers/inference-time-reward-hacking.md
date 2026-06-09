@@ -1,6 +1,6 @@
 ---
 title: "Inference-Time Reward Hacking in Large Language Models"
-url: "https://arxiv.org/pdf/2506.19248"
+link: "https://arxiv.org/pdf/2506.19248"
 date: 2025-07-22
 authors:
   - name: "Hadi Khalaf"

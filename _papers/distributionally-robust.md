@@ -1,6 +1,6 @@
 ---
 title: "Distributionally Robust Group Backwards Compatibility"
-url: "https://arxiv.org/abs/2112.10290"
+link: "https://arxiv.org/abs/2112.10290"
 date: 2021-12-01
 authors:
   - name: "Martin Bertran"

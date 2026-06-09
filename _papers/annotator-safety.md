@@ -1,6 +1,6 @@
 ---
 title: "Understanding Annotator Safety Policy with Interpretability"
-url: "https://arxiv.org/abs/2605.05329"
+link: "https://arxiv.org/abs/2605.05329"
 date: 2026-06-25
 authors:
   - name: "A. Oesterling"

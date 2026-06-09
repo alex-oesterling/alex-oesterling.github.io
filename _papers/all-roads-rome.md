@@ -1,6 +1,6 @@
 ---
 title: "All Roads Lead to Rome? Exploring Representational Similarities Between Latent Spaces of Generative Image Models"
-url: "https://arxiv.org/abs/2407.13449"
+link: "https://arxiv.org/abs/2407.13449"
 date: 2024-07-01
 authors:
   - name: "Charumathi Badrinath"

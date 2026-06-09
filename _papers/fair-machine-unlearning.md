@@ -1,6 +1,6 @@
 ---
 title: "Fair Machine Unlearning: Mitigating Disparities during Data Deletion"
-url: "https://arxiv.org/abs/2307.14754"
+link: "https://arxiv.org/abs/2307.14754"
 date: 2024-05-02
 authors:
   - name: "A. Oesterling"
